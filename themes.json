@@ -11,4 +11,16 @@
         "creationDate": "10/06/2022",
         "modificationDate": "23/06/2022"
     }
+      {
+        "author": "Elguar0",
+        "name": "Mercenary",
+        "keyWords": "Dofus theme, Mercenary",
+        "version": "1.0.0",
+        "dofusVersion": "2.72",
+        "description": "Mask beige/light gold and dark blue",
+        "url": "https://github.com/Elguar0/dofus_themes/raw/master/Mercenary.zip",
+        "previewUrl": "https://github.com/Elguar0/dofus_themes/raw/master/Mercenary.jpg",
+        "creationDate": "21/06/2024",
+        "modificationDate": "21/06/2024"
+    }
 ]
